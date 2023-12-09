@@ -12,4 +12,4 @@ You can read my post-competition writeup [here](https://www.kaggle.com/competiti
 - Follow setup instructions described [here](https://github.com/Lux-AI-Challenge/Lux-Design-S2/blob/v2.2.0/README.md#getting-started)
 - From the Lux-S2-public directory, run a test match `luxai-s2 ./main.py ./main.py -v 1 -o replay.html -s 0 -l 1000`
   - This may take up to an hour to run. For a quicker runtime, reduce [FUTURE_LEN](https://github.com/ryandy/Lux-S2-public/blob/main/luxry/util.py#L23) to 5.
-- To view a replay of the match, open [replay.html](file:///path/to/Lux-S2-public/replay.html) in a browser (you will have to modify the path in the URL).
+- To view a replay of the match, open replay.html e.g. `file:///path/to/Lux-S2-public/replay.html` in a browser (you will have to modify the path in the URL).
